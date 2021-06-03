@@ -6,6 +6,8 @@
 // @description     acfun 在视频窗口屏蔽弹幕发送人
 // @author          NiaoBlush
 // @license         MIT
+// @namespace       https://github.com/NiaoBlush/acfun-block-danmaku-sender
+// @supportURL      https://github.com/NiaoBlush/acfun-block-danmaku-sender
 // @grant           none
 // @require         https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js
 // @include         https://www.acfun.cn/*
